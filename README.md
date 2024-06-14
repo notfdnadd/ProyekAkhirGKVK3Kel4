@@ -34,3 +34,5 @@ Kami mencari data, memvisualisasikannya dengan JavaScript dan HTML, menganalisis
    - Pencarian data, visualisasi data, penyusunan PPT.
 3. **Felix Gideon Lumbantobing (G6401221069)**
    - Analisis hasil visualisasi data, penyusunan laporan.
+
+Link Video Karya : https://youtu.be/qQRhLHWNXQU
